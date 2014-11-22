@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
+//OBSOLETE AS OF 11/22/14
 public class PlayerController : MonoBehaviour {
 	public float speed;
 
